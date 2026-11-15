@@ -1,4 +1,4 @@
-# Hi, I'm Mahmut Emin Yavuz 👋
+# Hi, I'm Emin👋
 
 ### Backend Developer | Java & Spring Boot | Software Architecture | .NET
 
